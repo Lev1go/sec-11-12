@@ -1,0 +1,52 @@
+body {
+    margin: auto 0;
+    padding: auto 0;
+    font-family: 'Cormorant Upright', sans-serif;
+}
+
+.poison-container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.poison-galery {
+    display: flex;
+    justify-content: center;
+    gap: 33px;
+    padding-bottom: 177px;
+}
+
+.poison-subtitle {
+    font-size: 23px;
+    font-weight: 700;
+    color: white;
+    padding-top: 100px;
+}
+
+.poison-title {
+    font-weight: 600;
+    font-size: 64px;
+    color: #DCCA87;
+}
+
+.happy-container {
+    background-image: url("../img/bagatopiva.webp");
+    height: 900px;
+    text-align: center;
+}
+
+.happy-title {
+    color: #DCCA87;
+    font-size: 128px;
+    font-weight: 600;
+    padding-top: 330px;
+}
+
+.happy-text {
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+}
